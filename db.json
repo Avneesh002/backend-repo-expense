@@ -1,68 +1,76 @@
 {
   "users": [
     {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "id": 4,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 7,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 8,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
       "name": "avneesh",
-      "email": "avneesh@gmail.com",
-      "pass": "avneesh",
-      "id": 1
-    }
-  ],
-  "tracker": [
-    {
-      "userId": 1,
-      "expenseType": "Income",
-      "income": "Salary",
-      "price": 10000,
-      "date": "2023-06-06",
-      "id": 1
+      "age": 22,
+      "place": "Shimla",
+      "batch_name": "WEB-21",
+      "profession": "Frontend",
+      "id": 9
     },
     {
-      "userId": 1,
-      "expenseType": "Income",
-      "income": "Gifts",
-      "price": 9000,
-      "date": "2023-05-13",
-      "id": 2
+      "id": 10,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
     },
     {
-      "userId": 1,
-      "expenseType": "Income",
-      "income": "Refunds",
-      "price": 4000,
-      "date": "2023-04-14",
-      "id": 3
+      "id": 11,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
     },
     {
-      "userId": 1,
-      "expenseType": "Income",
-      "income": "Salary",
-      "price": 8000,
-      "date": "2023-03-10",
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "expenseType": "Expense",
-      "expense": "Housing",
-      "price": 238,
-      "date": "2023-06-05",
-      "id": 5
-    },
-    {
-      "userId": 1,
-      "expenseType": "Expense",
-      "expense": "Shopping",
-      "price": 238,
-      "date": "2023-05-10",
-      "id": 6
-    },
-    {
-      "userId": 1,
-      "expenseType": "Expense",
-      "expense": "Vehicle & Transport",
-      "price": 238,
-      "date": "2023-04-05",
-      "id": 7
+      "name": "avneesh",
+      "age": 22,
+      "place": "Shimla",
+      "batch_name": "WEB-21",
+      "profession": "Frontend",
+      "id": 12
     }
   ]
 }
